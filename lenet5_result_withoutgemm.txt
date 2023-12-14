@@ -1,0 +1,13 @@
+input the package: 0
+input the package: 1
+input the package: 2
+input the package: 3
+input the package: 4
+input the package: 5
+input the package: 6
+input the package: 7
+input the package: 8
+input the package: 9
+
+percentage of the model:
+tensor(98.2940)
